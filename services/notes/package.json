@@ -20,6 +20,7 @@
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
+    "@aws-cdk/assert": "^1.110.1",
     "stripe": "^8.157.0",
     "uuid": "^7.0.3"
   }
