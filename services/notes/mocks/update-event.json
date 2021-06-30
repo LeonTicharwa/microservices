@@ -1,0 +1,12 @@
+{
+    "body": "{\"content\":\"new world\",\"attachment\":\"tinashe.jpg\"}",
+    "pathParameters": 
+    {
+        "id": "823b4b00-d561-11eb-9eec-39bf4a3de92a"
+    },
+    "requestContext": {
+        "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+        }
+        }
+}
